@@ -4,3 +4,4 @@ It's my first Project (Weather App). This can be done by using HTML (for the bas
   A  user-friendly interface.
   User can check the Weather by enter City Name only for ease.
   It will show Live Weather Update including Temperature , WindSpeed and Humidity.  
+  If the User Enter an invalid name. It will show an error.
